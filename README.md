@@ -20,7 +20,7 @@ This project implements a human activity recognition (HAR) model using Wi-Fi Cha
 5. **Deployment:** Integrate the trained model into your application for real-world activity recognition tasks.
 
 ## Requirements:
-- Python 3.x
-- TensorFlow or PyTorch
+- Python 
+- TensorFlow 
 - NumPy, Pandas, Scikit-learn
 
