@@ -11,8 +11,7 @@ This project implements a human activity recognition (HAR) model using Wi-Fi Cha
 - **Optimizer and Learning Rate:** The model is trained using RMSprop optimizer with a learning rate of 1e-4.
 - **Training Epochs:** The model is trained for 50 epochs to ensure convergence and optimal performance.
 - **Robustness:** Designed to handle variations in Wi-Fi environment and user movements.
-## Confusion Matrix:
-![Model Architecture](img/confusion matrix.png)
+
 ## How to Use:
 1. **Data Collection:** Gather Wi-Fi CSI data using compatible hardware and software tools.
 2. **Data Preprocessing:** Apply a Butterworth filter to clean and enhance the collected CSI data before feeding it into the model.
